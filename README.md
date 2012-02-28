@@ -1,12 +1,10 @@
 # Le Parti des Geeks - Programme (ébauche)
 
-.. note::
-
     Cette ébauche de programme est bien évidemment forkable, amendable, "pull-
     request-able". Toutes les propositions seront étudiées avec soin et nous
     aurons plaisir à la "merger" si elle nous paraît aller dans le bon sens.
 
-*Ce document est du Domaine Public.*
+    *Ce document est du Domaine Public.*
 
 ## Déclaration Universelle des Droits de l'Homme
 
