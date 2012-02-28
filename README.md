@@ -27,3 +27,10 @@ Inscrire dans la Constitution :
 
 De fait, aucun sysadmin ne devrait avoir à subir ce traitement et ne pratiquera
 jamais de mise en production le dernier jour de la semaine.
+
+## Moeurs, us et coutumes
+
+### Proposition #0
+
+Chaque jour, à 13h37, tous les citoyens de ce pays devront observer une minute
+de silence et de méditation.
