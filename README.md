@@ -6,6 +6,8 @@
     request-able". Toutes les propositions seront étudiées avec soin et nous
     aurons plaisir à la "merger" si elle nous paraît aller dans le bon sens.
 
+*Ce document est du Domaine Public.*
+
 ## Déclaration Universelle des Droits de l'Homme
 
 ### Proposition #0
