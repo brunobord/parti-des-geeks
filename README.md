@@ -23,6 +23,14 @@ Inscrire *ibidem* :
 > leur permettant un accès libre et sans contrainte à l'information, l'éducation
 > et la culture.
 
+
+### Proposition #2
+
+Inscrire *ibidem* :
+
+> Les Geeks ont le droit de programmer dans le langage qu'ils préfèrent, pour la
+> ou les plateformes qu'ils veulent.
+
 ## Constitution
 
 ### Proposition #0
