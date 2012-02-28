@@ -40,3 +40,10 @@ jamais de mise en production le dernier jour de la semaine.
 
 Chaque jour, à 13h37, tous les citoyens de ce pays devront observer une minute
 de silence et de méditation.
+
+## Proposition #1
+
+Bien que nous soyons opposés à la peine capitale, et que les *processus* qui
+peuplent nos machines soient nos amis virtuels les plus chers, nous autorisons
+la mise à mort des processus de nos systèmes, sous réserve que vous en ayiez
+le droit (c'est à dire d'en être propriétaire ou d'être `root`).
