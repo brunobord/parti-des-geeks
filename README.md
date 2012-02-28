@@ -41,7 +41,7 @@ jamais de mise en production le dernier jour de la semaine.
 Chaque jour, à 13h37, tous les citoyens de ce pays devront observer une minute
 de silence et de méditation.
 
-## Proposition #1
+### Proposition #1
 
 Bien que nous soyons opposés à la peine capitale, et que les *processus* qui
 peuplent nos machines soient nos amis virtuels les plus chers, nous autorisons
