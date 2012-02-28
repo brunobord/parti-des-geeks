@@ -42,6 +42,20 @@ Inscrire dans la Constitution :
 De fait, aucun sysadmin ne devrait avoir à subir ce traitement et ne pratiquera
 jamais de mise en production le dernier jour de la semaine.
 
+### Proposition #1.1
+
+Si la Déclaration Universelle des Droits de l'Homme reconnaît le droit aux Geeks
+de pouvoir programmer dans le langage de leur choix, la République adopte un
+principe de laïcité concernant ces langages. Elle tolère tous les langages de
+programmation, mais n'en reconnaît aucun.
+
+### Proposition #1.2
+
+De la même manière, la République tolère tous les éditeurs de texte ou IDE, mais
+n'en reconnaît aucun.
+
+    Nous espérons que ces propositions 1.x mettront un jour fin aux flamewars.
+
 ## Moeurs, us et coutumes
 
 ### Proposition #0
