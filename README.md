@@ -23,7 +23,6 @@ Inscrire *ibidem* :
 > leur permettant un accès libre et sans contrainte à l'information, l'éducation
 > et la culture.
 
-
 ### Proposition #2
 
 Inscrire *ibidem* :
@@ -31,13 +30,20 @@ Inscrire *ibidem* :
 > Les Geeks ont le droit de programmer dans le langage qu'ils préfèrent, pour la
 > ou les plateformes qu'ils veulent.
 
+### Proposition #3
+
+Inscrire *ibidem* :
+
+> Nulle donnée ne peut être stockée, altérée, ni partagée que dans les cas
+> déterminés par la Loi, et selon les formes qu'elle a prescrites.
+
 ## Constitution
 
 ### Proposition #0
 
 Inscrire dans la Constitution :
 
-> La mise en production le vendredi est un traitement inhumain et dégradant. 
+> La mise en production le vendredi est un traitement inhumain et dégradant.
 
 De fait, aucun sysadmin ne devrait avoir à subir ce traitement et ne pratiquera
 jamais de mise en production le dernier jour de la semaine.
